@@ -26,4 +26,16 @@
     // Dispose of any resources that can be recreated.
 }
 
+#pragma mark - Actions
+
+- (IBAction)loginWithFbClick:(id)sender
+{
+    
+}
+
+
+- (IBAction)registerClick:(id)sender
+{
+    
+}
 @end
